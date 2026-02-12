@@ -7,7 +7,7 @@ series:
   containing information related to how things work in the hackathon series and
   documentation source for the
   [https://fortran-index.github.io](https://fortran-index.github.io) webpage.
-* [Fork](https://github.com/fortran-index/fortran-lang-webpage):
+* [Fork](https://github.com/fortran-index/fortran-lang-webpage)
   of the GitHub repository for the
   [https://fortran-lang.org](https://fortran-lang.org) community webpage.
 * [Fortran index GitHub Pages root](https://github.com/fortran-index/fortran-index.github.io)
